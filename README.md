@@ -1,16 +1,27 @@
-## Hi there 👋
+# ANHELL404
 
-<!--
-**ANHELL404/ANHELL404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> error 404: developer not found
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+i write code sometimes  
+i break things more often  
+
+---
+
+### stack
+- js / ts
+- whatever works
+- coffee
+
+---
+
+### now
+- trying to get better
+- building random stuff
+- fixing bugs i created
+
+---
+
+### links
+coming soon...
